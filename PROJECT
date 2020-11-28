@@ -1,0 +1,7 @@
+domain: ishankhare.dev
+repo: github.com/ishankhare07/jobber
+resources:
+- group: jobber
+  kind: Cron
+  version: v1alpha1
+version: "2"
